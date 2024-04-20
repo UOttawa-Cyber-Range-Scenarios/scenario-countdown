@@ -7,9 +7,9 @@
 This is the official Cyber Range Scenario Timer, designed specifically to facilitate timed exercises in the uOtawa Cyber Range for cybersecurity training environments. This project is built with Next.js 14 and Shadcn/UI.
 
 ## Features
-Dark and Light Mode Themes: Switch between dark and light mode themes for comfortable viewing in various environments.
-Customizable Timer with Extra Time Feature: Tailor the timer to your specific needs, including the ability to add extra time as required during exercises.
-Customizable Dates: Adjust dates and times to schedule exercises according to your training calendar and requirements.
+- **Themes:** Switch between dark and light mode themes for comfortable viewing in various environments.
+- **Flexible Timer:** Tailor the timer to your specific needs, including the ability to add extra time as required during live exercises.
+- **Customizable Dates:** Adjust dates and times to schedule exercises according to your training calendar and requirements.
 
 ## Usage
 
